@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OakSoft.ViewModels", "OakSoft.ViewModels\OakSoft.ViewModels.csproj", "{60A449AB-35D8-4165-9E3A-5DEEA7184587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60A449AB-35D8-4165-9E3A-5DEEA7184587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A449AB-35D8-4165-9E3A-5DEEA7184587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A449AB-35D8-4165-9E3A-5DEEA7184587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A449AB-35D8-4165-9E3A-5DEEA7184587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A58C547-D6AF-44CB-AB3A-EE1ECB943841}
+	EndGlobalSection
+EndGlobal
